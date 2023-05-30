@@ -102,7 +102,7 @@ a {
     height: fit-content;
     padding: 15px;
     margin: 10px;
-    font-size: 94px;
+    font-size: 100px;
     font-family: 'Dancing Script', cursive;
 }
 
@@ -112,8 +112,8 @@ a {
     margin: 0 10px 10px 10px;
     padding: 15px;
     font-family: 'DotGothic16', sans-serif;
-    font-size: 20px;
-    width: 75%
+    font-size: 30px;
+    width: 75%;
 }
 
 /*editing the project page/work page*/
