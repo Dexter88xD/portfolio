@@ -160,7 +160,7 @@ header {
     display: flex;
     height: 15.625em;
     width: 15.625em;
-    background-color: rgb(255, 99, 71);
+    /*background-color: rgb(255, 99, 71);*/
     border-color: rgb(104, 19, 153);
     border: 2.5em;
     margin: 0.625em;
