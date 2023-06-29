@@ -117,7 +117,7 @@ a {
 #about p {
     display: flex;
     flex-wrap: wrap;
-    /*background-color: rgb(170, 38, 38);*/
+    background-color: rgb(170, 38, 38);
     color: rgb(64, 113, 153);
     margin: 0.3125em;
     padding: 0.625em;
