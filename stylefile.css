@@ -281,6 +281,13 @@ header {
 
 /*responsive design*/
 @media (max-width: 81.25em) {
+    #about {
+        display: flex;
+        flex-wrap: wrap;
+        height: 100%;
+        width: 100%;
+    }
+
     #projects div {
         width: 550px;
     }
@@ -299,19 +306,6 @@ header {
     }
 }
 
-@media (max-width: 73.75em) and (orientation: landscape) {
-    #about {
-        display: flex;
-        flex-wrap: wrap;
-        height: 100%;
-        width: 100%;
-    }
-    
-    #about p {
-        margin: 1.125em;
-        width: 95%;
-    }
-}
 
 @media (max-width: 71.875em) {
     #about h1 {
